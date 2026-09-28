@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="[IMAGE NEEDED]">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7F69FF"/><stop offset="1" stop-color="#00929E"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="#EFE9DF"/>
+  <g stroke="url(#g)" stroke-width="3" fill="url(#g)" opacity="0.22" stroke-linecap="round">
+<line x1="97" y1="133" x2="126" y2="409"/>
+<line x1="126" y1="409" x2="355" y2="297"/>
+<line x1="126" y1="409" x2="202" y2="481"/>
+<line x1="213" y1="793" x2="420" y2="597"/>
+<line x1="725" y1="914" x2="635" y2="737"/>
+<line x1="725" y1="914" x2="780" y2="920"/>
+<line x1="725" y1="914" x2="561" y2="1012"/>
+<line x1="355" y1="297" x2="202" y2="481"/>
+<line x1="660" y1="257" x2="661" y2="76"/>
+<line x1="660" y1="257" x2="693" y2="442"/>
+<line x1="635" y1="737" x2="780" y2="920"/>
+<line x1="635" y1="737" x2="561" y2="1012"/>
+<line x1="635" y1="737" x2="420" y2="597"/>
+<line x1="635" y1="737" x2="495" y2="554"/>
+<line x1="202" y1="481" x2="420" y2="597"/>
+<line x1="693" y1="442" x2="495" y2="554"/>
+<line x1="780" y1="920" x2="561" y2="1012"/>
+<line x1="420" y1="597" x2="495" y2="554"/>
+<circle cx="97" cy="133" r="10"/>
+<circle cx="126" cy="409" r="6"/>
+<circle cx="213" cy="793" r="6"/>
+<circle cx="725" cy="914" r="10"/>
+<circle cx="355" cy="297" r="12"/>
+<circle cx="660" cy="257" r="10"/>
+<circle cx="661" cy="76" r="12"/>
+<circle cx="635" cy="737" r="12"/>
+<circle cx="202" cy="481" r="8"/>
+<circle cx="693" cy="442" r="8"/>
+<circle cx="780" cy="920" r="8"/>
+<circle cx="561" cy="1012" r="8"/>
+<circle cx="420" cy="597" r="6"/>
+<circle cx="495" cy="554" r="8"/>
+  </g>
+  <rect x="260.0" y="504.0" width="380" height="92" rx="14" fill="#FFFFFF" fill-opacity="0.88"/>
+  <text x="450.0" y="542.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#23262B">[IMAGE NEEDED]</text>
+  <text x="450.0" y="574.0" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#5D6470">Professional portrait of Jennifer Shipley, CPNP</text>
+</svg>
